@@ -1,4 +1,20 @@
-# Secure-Programming-multi-party-chat-system
- Design, development, and evaluation of a secure overlay chat system utilising a standardised protocol created by all the students in this class. This system must adhere to class-specified protocol, have a secure implementation, have the secured implementation intentionally "backdoored", and then be tested in a controlled code review process.
-Check https://github.com/yulinhtm/Advanced-Secure-Protocol-Design-Implementation-and-Review for the development process and the work. 
-Many of the work in done localy on Mottyang computer by me so the contribution may not be accurate based on the push request.
+Design, development, and evaluation of a secure overlay chat system utilising a standardised protocol created collaboratively by students in the course.
+
+The system was required to:
+- Adhere to the class-specified communication protocol
+- Include a secure implementation
+- Include an intentionally "backdoored" implementation for security analysis
+- Undergo testing and evaluation through a controlled code review process
+
+---
+
+## Project Repository
+
+Development process and project work:  
+:contentReference[oaicite:0]{index=0}
+
+---
+
+## Contribution Note
+
+A significant portion of the development work was completed locally on Mottyang's computer. As a result, the GitHub contribution history and push records may not accurately reflect the overall contributions made to the project.
