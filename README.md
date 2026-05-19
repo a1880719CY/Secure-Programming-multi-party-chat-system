@@ -1,3 +1,4 @@
+# Secure Programming Multi-Party Chat System
 Design, development, and evaluation of a secure overlay chat system utilising a standardised protocol created collaboratively by students in the course.
 
 The system was required to:
